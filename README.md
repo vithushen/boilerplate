@@ -1,2 +1,2 @@
 # boilerplate
- Boilerplate with React/TailwindCSS/DaisyUI
+ Boilerplate for Frontend Web Development: React/TailwindCSS/DaisyUI/React Router
